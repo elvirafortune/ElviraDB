@@ -4,6 +4,8 @@ import json
 import re
 from django.http.response import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
+from database import DBconnect
+
 
 @csrf_exempt
 def choose_entity(request, entity, function):
@@ -46,3 +48,23 @@ class DateTime(json.JSONEncoder):
             return (datetime.datetime.min + obj).time().isoformat()
         else:
             return super(DateTime, self).default(obj)
+
+
+@csrf_exempt
+def deleteAll():
+    db = DBconnect.connect()
+
+    cur = db.cursor()
+    cur.execute("set FOREIGN_KEY_CHECKS=0")
+    cur.execute("TRUNCATE TABLE subscription")
+    cur.execute("TRUNCATE TABLE followers")
+    cur.execute("TRUNCATE TABLE post")
+    cur.execute("TRUNCATE TABLE thread")
+    cur.execute("TRUNCATE TABLE forum")
+    cur.execute("TRUNCATE TABLE user")
+    cur.execute("set FOREIGN_KEY_CHECKS=1")
+    cur.close()
+
+    db.close()
+
+    pass

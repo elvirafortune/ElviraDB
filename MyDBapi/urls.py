@@ -5,6 +5,7 @@ from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = patterns('',
-    url( r'^(?P<entity>\S+)/(?P<function>\S+)$', views.choose_entity)
+    url( r'^(?P<entity>\S+)/(?P<function>\S+)$', views.choose_entity),
+    url( r'^clear$', views.deleteAll)
 )
 
