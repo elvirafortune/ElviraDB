@@ -94,7 +94,6 @@ def details(db=0, close_db=True, **data):
 
 def list(**data):
 
-    check_optional_param(data, 'order', 'desc')
     if 'order' not in data:
         data['order'] = 'desc'
     if 'thread' not in data and 'forum' not in data:
