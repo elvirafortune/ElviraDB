@@ -20,10 +20,6 @@ from doc_conf import DISCR
 
 CONFIG_PATH = '/usr/local/etc/test.conf'
 
-settings = {
-'url': 'http://193.167.2.39/db/api'
-}
-
 class TestLog(object):
     def __init__(self):
         self.test_log = []
@@ -806,7 +802,7 @@ if __name__ == '__main__':
                       action="store_true", default=False)
     (options, args) = parser.parse_args()
     DEBUG = options.is_debug_mode
-    students  = {u'Иван Иванов': {'ip': u'http://193.167.2.39/db/api/', 'email': u'kolesofortuni@mail.ru'}}
+    students  = {u'Иван Иванов': {'ip': u'http://193.167.2.39', 'email': u'kolesofortuni@mail.ru'}}
     for name, info in sorted(students.items(), key=lambda t: t[0]):
         name_utf = name.encode('utf-8')
         info['ip'] = info['ip'].encode('utf-8')
