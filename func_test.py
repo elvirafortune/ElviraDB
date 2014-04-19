@@ -21,7 +21,7 @@ from doc_conf import DISCR
 CONFIG_PATH = '/usr/local/etc/test.conf'
 
 settings = {
-'url': '193.167.2.39/db/api'
+'url': 'http://193.167.2.39/db/api'
 }
 
 class TestLog(object):
