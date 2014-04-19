@@ -806,7 +806,7 @@ if __name__ == '__main__':
                       action="store_true", default=False)
     (options, args) = parser.parse_args()
     DEBUG = options.is_debug_mode
-    students  = {u'Иван Иванов': {'ip': u'193.167.2.39', 'email': u's.stupnikov@corp.mail.ru'}} if DEBUG else students
+    students  = {u'Иван Иванов': {'ip': u'193.167.2.39', 'email': u's.stupnikov@corp.mail.ru'}}
     for name, info in sorted(students.items(), key=lambda t: t[0]):
         name_utf = name.encode('utf-8')
         info['ip'] = info['ip'].encode('utf-8')
