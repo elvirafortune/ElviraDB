@@ -22,7 +22,101 @@
     <favorites_list name="MyDBapi" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="DBconnect.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/DBconnect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="30" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyDBapi/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyDBapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="1207">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="125" column="15" selection-start="3773" selection-end="3773" vertical-scroll-proportion="17.32" vertical-offset="2541" max-vertical-offset="3451">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forum.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/forum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="53" selection-start="1786" selection-end="1796" vertical-scroll-proportion="-4.8" vertical-offset="713" max-vertical-offset="3077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/post.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="64" selection-start="316" selection-end="360" vertical-scroll-proportion="-4.8" vertical-offset="67" max-vertical-offset="3808">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/thread.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="57" selection-start="2471" selection-end="2481" vertical-scroll-proportion="-4.64" vertical-offset="955" max-vertical-offset="5814">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="followers.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyDBapp/additions/followers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="78" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.47368422" vertical-offset="544" max-vertical-offset="1700">
+              <folding>
+                <marker date="1398195842584" expanded="true" signature="208:260" placeholder="SELECT * FRO..user..." />
+                <marker date="1398195842584" expanded="true" signature="1729:1781" placeholder="SELECT * FRO..user..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cursors.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/site-packages/MySQLdb/cursors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="187" column="0" selection-start="5590" selection-end="5590" vertical-scroll-proportion="0.0" vertical-offset="3055" max-vertical-offset="9282">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringToFile.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyDBapp/additions/StringToFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -34,17 +128,17 @@
       <list>
         <option value="$PROJECT_DIR$/MyDBapi/settings.py" />
         <option value="$PROJECT_DIR$/MyDBapp/additions/followerin.py" />
-        <option value="$PROJECT_DIR$/database/DBconnect.py" />
         <option value="$PROJECT_DIR$/MyDBapp/additions/SubscriptionsList.py" />
         <option value="$PROJECT_DIR$/MyDBapp/additions/followerService.py" />
         <option value="$PROJECT_DIR$/MyDBapp/additions/StringToFile.py" />
-        <option value="$PROJECT_DIR$/MyDBapp/additions/followers.py" />
         <option value="$PROJECT_DIR$/MyDBapp/dbentities/user.py" />
         <option value="$PROJECT_DIR$/MyDBapp/dbentities/forum.py" />
         <option value="$PROJECT_DIR$/MyDBapp/dbentities/thread.py" />
         <option value="$PROJECT_DIR$/MyDBapi/urls.py" />
-        <option value="$PROJECT_DIR$/MyDBapp/views.py" />
         <option value="$PROJECT_DIR$/MyDBapp/dbentities/post.py" />
+        <option value="$PROJECT_DIR$/database/DBconnect.py" />
+        <option value="$PROJECT_DIR$/MyDBapp/views.py" />
+        <option value="$PROJECT_DIR$/MyDBapp/additions/followers.py" />
       </list>
     </option>
   </component>
@@ -80,7 +174,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,6 +272,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,20 +512,40 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22349103" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2839879" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39674798" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3013595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3964111" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3300813" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789558" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -480,58 +594,32 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyDBapp/additions/StringToFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/additions/SubscriptionsList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="28" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="3" column="4" selection-start="28" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapi/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="68" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="9" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="515" max-vertical-offset="884">
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="25" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="748">
-          <folding>
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT about..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-          </folding>
-        </state>
+        <state line="11" column="25" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="748" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/__init__.py">
@@ -553,86 +641,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
-          <folding>
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT about..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-          </folding>
-        </state>
+        <state line="12" column="16" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/post.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding>
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/thread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding>
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT id, e..user..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subscription..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE subsc..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subscription..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE subsc..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/forum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding>
-            <element signature="e#22#52#0" expanded="false" />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..forum..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..forum..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id, e..user..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id FR..thread..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT user ..post..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id fr..thread..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/models.py">
@@ -664,86 +688,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
-          <folding>
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT about..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-          </folding>
-        </state>
+        <state line="12" column="16" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/post.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding>
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/thread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding>
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT id, e..user..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subscription..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE subsc..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subscription..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE subsc..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/forum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding>
-            <element signature="e#22#52#0" expanded="false" />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..forum..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..forum..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id, e..user..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id FR..thread..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT user ..post..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id fr..thread..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/models.py">
@@ -828,162 +788,99 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-762174762/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="1104" selection-end="1118" vertical-scroll-proportion="0.33333334" vertical-offset="331" max-vertical-offset="86683">
-          <folding />
-        </state>
+        <state line="27" column="0" selection-start="1104" selection-end="1118" vertical-scroll-proportion="0.33333334" vertical-offset="331" max-vertical-offset="86683" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/additions/SubscriptionsList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="28" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+        <state line="3" column="4" selection-start="28" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/views/decorators/csrf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="747" max-vertical-offset="1071" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/core/urlresolvers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="317" column="0" selection-start="12168" selection-end="12168" vertical-scroll-proportion="0.17881945" vertical-offset="5031" max-vertical-offset="9639" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/utils/importlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1351" selection-end="1351" vertical-scroll-proportion="0.79796267" vertical-offset="176" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/DBconnect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyDBapi/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyDBapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/forum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="53" selection-start="1786" selection-end="1796" vertical-scroll-proportion="-4.8" vertical-offset="713" max-vertical-offset="3077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="64" selection-start="316" selection-end="360" vertical-scroll-proportion="-4.8" vertical-offset="67" max-vertical-offset="3808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="57" selection-start="2471" selection-end="2481" vertical-scroll-proportion="-4.64" vertical-offset="955" max-vertical-offset="5814">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/additions/StringToFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="391">
+        <state line="15" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/DBconnect.py">
+    <entry file="file://C:/Python27/Lib/site-packages/MySQLdb/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="69" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyDBapp/additions/followers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="28" selection-start="1895" selection-end="1895" vertical-scroll-proportion="0.0" vertical-offset="793" max-vertical-offset="1666">
-          <folding>
-            <marker date="1397481086581" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397481086581" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/django/views/decorators/csrf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="747" max-vertical-offset="1071">
+        <state line="187" column="0" selection-start="5590" selection-end="5590" vertical-scroll-proportion="0.0" vertical-offset="3055" max-vertical-offset="9282">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="27" selection-start="360" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="3451">
-          <folding>
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT about..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE user ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..followers..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="UPDATE follo..." />
-            <marker date="1397499767357" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyDBapi/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.41975307" vertical-offset="0" max-vertical-offset="324">
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="18" selection-start="5767" selection-end="5767" vertical-scroll-proportion="0.0" vertical-offset="3111" max-vertical-offset="5814">
-          <folding>
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT id, e..user..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subscription..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE subsc..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subscription..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="UPDATE subsc..." />
-            <marker date="1397593498693" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/forum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="867" selection-end="867" vertical-scroll-proportion="-4.518841" vertical-offset="2069" max-vertical-offset="3111">
-          <folding>
-            <element signature="e#22#52#0" expanded="false" />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..forum..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..forum..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id, e..user..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id FR..thread..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..thread..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..user..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT user ..post..." />
-            <marker date="1397590552463" expanded="true" signature="-1:-1" placeholder="SELECT id fr..thread..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyDBapp/dbentities/post.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="20" selection-start="316" selection-end="360" vertical-scroll-proportion="0.24637681" vertical-offset="102" max-vertical-offset="3808">
-          <folding>
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE threa..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT id, d..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..post..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-            <marker date="1397646342473" expanded="true" signature="-1:-1" placeholder="UPDATE post ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyDBapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="26" selection-start="948" selection-end="948" vertical-scroll-proportion="1.2492753" vertical-offset="113" max-vertical-offset="1275">
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/django/core/urlresolvers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="317" column="0" selection-start="12168" selection-end="12168" vertical-scroll-proportion="0.17881945" vertical-offset="5031" max-vertical-offset="9639">
+        <state line="125" column="15" selection-start="3773" selection-end="3773" vertical-scroll-proportion="17.32" vertical-offset="2541" max-vertical-offset="3451">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/django/utils/importlib.py">
+    <entry file="file://$PROJECT_DIR$/MyDBapp/additions/followers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1351" selection-end="1351" vertical-scroll-proportion="0.79796267" vertical-offset="176" max-vertical-offset="765">
-          <folding />
+        <state line="43" column="78" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.47368422" vertical-offset="544" max-vertical-offset="1700">
+          <folding>
+            <marker date="1398195842584" expanded="true" signature="208:260" placeholder="SELECT * FRO..user..." />
+            <marker date="1398195842584" expanded="true" signature="1729:1781" placeholder="SELECT * FRO..user..." />
+          </folding>
         </state>
       </provider>
     </entry>

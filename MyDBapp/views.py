@@ -51,7 +51,7 @@ class DateTime(json.JSONEncoder):
 
 
 @csrf_exempt
-def deleteAll():
+def deleteAll(request):
     db = DBconnect.connect()
 
     cur = db.cursor()
@@ -68,3 +68,4 @@ def deleteAll():
     db.close()
 
     pass
+    return HttpResponse()

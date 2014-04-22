@@ -14,7 +14,7 @@ def Followerin(data, mode, db=DBconnect.connect()):
         raise Exception('such user doesnt exist')
     query = StringToFilefunc()
     params = ()
-    if mode[1] == 'long': #change this!!
+    if mode[1] == 'long':
         query.append("""SELECT *""")
     else:
         query.append("""SELECT email""")
@@ -40,6 +40,8 @@ def Followerin(data, mode, db=DBconnect.connect()):
             user['subscriptions'] = SubscriptionsListfunc(user['email'], db)
             temp = {'user' : user['email']}
             user['followers'] = Followerin(temp, ['followers', 'short'], db)
+
+            user['following'] = Followerfrom(temp, ['followees', 'short'], db)
     else:
         temp = cur.fetchall()
         users = []
@@ -84,6 +86,8 @@ def Followerfrom(data, mode, db=DBconnect.connect()):
             user['subscriptions'] = SubscriptionsListfunc(user['email'], db)
             temp = {'user' : user['email']}
             user['following'] = Followerfrom(temp, ['followees', 'short'], db)
+
+            user['followers'] = Followerin(temp, ['followers', 'short'], db)
     else:
         temp = cur.fetchall()
         users = []

@@ -5,7 +5,7 @@ import MySQLdb.cursors
 
 def connect():
     db = MySQLdb.connect(host='localhost', port=3306, db='ElviraApiDb',
-    user='root', passwd='',
+    user='root', passwd='390191',
     charset='utf8',
     cursorclass=MySQLdb.cursors.SSDictCursor)
     return db
